@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LogicalTest_HalaFathyMohamed</string>
+    <string name="get_fib">Get Fibonancci</string>
+    <string name="enter_number">Enter a number</string>
+    <string name="result">result</string>
+    <string name="error">Please, Enter a number</string>
+    <string name="hello">Hello</string>
+    <string name="world">World</string>
+
+    <string name="check_palindrome">Check Palindrome</string>
+    <string name="palindrome">The number is a palindrome</string>
+    <string name="not_palindrome">The number is not a palindrome</string>
+
+    <string name="pascal">Pascal Triangle</string>
+    <string name="print_line">Print pascal line</string>
+</resources>
